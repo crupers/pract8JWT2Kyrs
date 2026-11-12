@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\prakt8jwt\\prakt8jwt\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|solutionrelative:prakt8jwt\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\prakt8jwt\\prakt8jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|solutionrelative:prakt8jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\prakt8jwt\\prakt8jwt\\dbmodels\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|solutionrelative:prakt8jwt\\dbmodels\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\prakt8jwt\\prakt8jwt\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|solutionrelative:prakt8jwt\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\prakt8jwt\\prakt8jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|solutionrelative:prakt8jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\prakt8jwt\\prakt8jwt\\prakt8jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|solutionrelative:prakt8jwt\\prakt8jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\prakt8jwt\\prakt8jwt\\prakt8jwt.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|solutionrelative:prakt8jwt\\prakt8jwt.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\prakt8jwt\\prakt8jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|solutionrelative:prakt8jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\prakt8jwt\\prakt8jwt\\bd\\prakt8context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|solutionrelative:prakt8jwt\\bd\\prakt8context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|c:\\users\\zelen\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\prakt8jwt\\prakt8jwt\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A642C80-3374-4EA6-8E75-C5BF2D924D6A}|Prakt8JWT\\Prakt8JWT.csproj|solutionrelative:prakt8jwt\\dbmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prakt8JWT.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\Prakt8JWT.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "Prakt8JWT\\Prakt8JWT.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\Prakt8JWT.csproj.Backup.tmp",
+              "RelativeToolTip": "Prakt8JWT\\Prakt8JWT.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-12T09:54:00.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "Prakt8JWT\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\AuthRequest.cs",
+              "RelativeToolTip": "Prakt8JWT\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T09:45:03.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\DbModels\\User.cs",
+              "RelativeDocumentMoniker": "Prakt8JWT\\DbModels\\User.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\DbModels\\User.cs",
+              "RelativeToolTip": "Prakt8JWT\\DbModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T09:38:03.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prakt8JWT.http",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\Prakt8JWT.http",
+              "RelativeDocumentMoniker": "Prakt8JWT\\Prakt8JWT.http",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\Prakt8JWT.http",
+              "RelativeToolTip": "Prakt8JWT\\Prakt8JWT.http",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-11T16:18:53.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\Program.cs",
+              "RelativeDocumentMoniker": "Prakt8JWT\\Program.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\Program.cs",
+              "RelativeToolTip": "Prakt8JWT\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T16:34:35.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\appsettings.json",
+              "RelativeDocumentMoniker": "Prakt8JWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\appsettings.json",
+              "RelativeToolTip": "Prakt8JWT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T16:34:00.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Prakt8JWT\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Prakt8JWT\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwD8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T16:39:25.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Prakt8JWT\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Prakt8JWT\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:59:15.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\DbModels\\Task.cs",
+              "RelativeDocumentMoniker": "Prakt8JWT\\DbModels\\Task.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\DbModels\\Task.cs",
+              "RelativeToolTip": "Prakt8JWT\\DbModels\\Task.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:23:17.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prakt8Context.cs",
+              "DocumentMoniker": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\BD\\Prakt8Context.cs",
+              "RelativeDocumentMoniker": "Prakt8JWT\\BD\\Prakt8Context.cs",
+              "ToolTip": "C:\\Users\\zelen\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\2trpo\\Prakt8JWT\\Prakt8JWT\\BD\\Prakt8Context.cs",
+              "RelativeToolTip": "Prakt8JWT\\BD\\Prakt8Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T16:29:29.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
